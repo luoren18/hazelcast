@@ -81,7 +81,7 @@
         <maven.spotbugs.plugin.version>4.1.4</maven.spotbugs.plugin.version>
         <maven.sonar.plugin.version>3.6.0.1398</maven.sonar.plugin.version>
         <maven.jacoco.plugin.version>0.8.6</maven.jacoco.plugin.version>
-        <maven.failsafe.plugin.version>2.22.0</maven.failsafe.plugin.version>
+        <maven.failsafe.plugin.version>2.22.2</maven.failsafe.plugin.version>
         <maven.cobertura.plugin.version>2.6</maven.cobertura.plugin.version>
         <maven.enforcer.plugin.version>3.0.0-M2</maven.enforcer.plugin.version>
 
@@ -99,7 +99,7 @@
         <reflections.version>0.9.10</reflections.version>
         <jmh.version>1.21</jmh.version>
         <commons-lang3.version>3.4</commons-lang3.version>
-        <felix.utils.version>1.10.0</felix.utils.version>
+        <felix.utils.version>1.11.6</felix.utils.version>
         <findbugs.annotations.version>3.0.1u2</findbugs.annotations.version>
         <http.components.version>4.3.6</http.components.version>
 
